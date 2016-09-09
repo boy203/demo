@@ -1,2 +1,3 @@
-# demo
-hello github
+<?php
+  echo "Hello Gihthub";
+?>
